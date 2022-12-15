@@ -17,11 +17,6 @@ Backtest trading strategies with Python.
 [Documentation]: https://kernc.github.io/backtesting.py/doc/backtesting/
 
 
-Installation
-------------
-
-    $ pip install backtesting
-
 
 Usage
 -----
